@@ -1,2 +1,1 @@
-ultralytics==8.2.82
 ultralytics==8.2.87
